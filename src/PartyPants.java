@@ -1,4 +1,4 @@
-]public class PartyPants implements Pants {
+public class PartyPants implements Pants {
 
     @Override
     public void display() {
